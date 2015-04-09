@@ -3,6 +3,6 @@ firstassignment1
 
 # Ilk Deneme
 
-## Eðlenerek Öðrenmek
+## Eglenerek Oðrenmek
 
-* kolaymýþ bu ya
+* kolaymis bu ya
